@@ -1,5 +1,4 @@
 CONFIG_TARGET_ath79=y
-CONFIG_TARGET_ath79_generic=y
 CONFIG_TARGET_DEVICE_ath79_generic_DEVICE_tplink_tl-wr1043nd-v3=y
 # CONFIG_LUCI_LANG_zh-cn is not set
 # CONFIG_PACKAGE_6in4 is not set
