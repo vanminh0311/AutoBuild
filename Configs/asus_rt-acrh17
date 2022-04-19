@@ -1,3 +1,14 @@
 CONFIG_TARGET_ath79=y
 CONFIG_TARGET_ath79_generic=y
 CONFIG_TARGET_DEVICE_ath79_generic_DEVICE_tplink_tl-wr1043nd-v3=y
+# CONFIG_LUCI_LANG_zh-cn is not set
+# CONFIG_PACKAGE_6in4 is not set
+CONFIG_PACKAGE_block-mount=y
+# CONFIG_PACKAGE_default-settings is not set
+CONFIG_PACKAGE_luci-mod-admin-full=y
+CONFIG_PACKAGE_luci-theme-bootstrap=y
+CONFIG_PACKAGE_luci-theme-netgear=y
+# CONFIG_PACKAGE_luci-app-unblockmusic is not set
+CONFIG_PACKAGE_wpad=y
+# CONFIG_PACKAGE_wpad-openssl is not set
+CONFIG_PACKAGE_luci-app-sqm=y
